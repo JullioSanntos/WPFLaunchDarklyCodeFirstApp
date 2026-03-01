@@ -53,11 +53,6 @@ namespace TrustsAndTpa.TrustsAndTpa03.ViewModels {
         #endregion Commands
 
         #region VisiblityControls
-        public enum Visibility {
-            Visible,
-            Hidden,
-            Collapsed
-        }
         public string UnboundVisibility => CurrentTpaTrustState == TpaTrustState.Unbound ? nameof(Visibility.Visible) : nameof(Visibility.Hidden);
         public string EditingVisibility => CurrentTpaTrustState is TpaTrustState.Editing or TpaTrustState.Searching
             ? nameof(Visibility.Visible) : nameof(Visibility.Collapsed);
