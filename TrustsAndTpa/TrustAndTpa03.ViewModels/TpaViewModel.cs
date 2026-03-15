@@ -1,5 +1,4 @@
-﻿using TrustAndTpa.TrustAndTpa03.ViewModels;
-using TrustsAndTpa.TrustAndTpa12.Infrastructure;
+﻿using TrustsAndTpa.TrustAndTpa12.Infrastructure;
 
 namespace TrustsAndTpa.TrustAndTpa03.ViewModels {
     public class TpaViewModel : ViewModelBase {

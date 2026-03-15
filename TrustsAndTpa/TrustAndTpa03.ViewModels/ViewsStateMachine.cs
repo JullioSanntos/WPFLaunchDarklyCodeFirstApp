@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using TrustsAndTpa.TrustAndTpa03.ViewModels;
-using TrustsAndTpa.TrustAndTpa12.Infrastructure;
+﻿using TrustsAndTpa.TrustAndTpa12.Infrastructure;
 
-namespace TrustAndTpa.TrustAndTpa03.ViewModels;
+namespace TrustsAndTpa.TrustAndTpa03.ViewModels;
 
 public class ViewsStateMachine : ViewModelBase {
 

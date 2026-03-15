@@ -4,7 +4,6 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
-             xmlns:viewModels="clr-namespace:TrustAndTpa.TrustAndTpa03.ViewModels"
              xmlns:viewModels1="clr-namespace:TrustsAndTpa.TrustAndTpa03.ViewModels"
              xmlns:views="clr-namespace:TrustsAndTpa.TrustAndTpa01.Views"
              mc:Ignorable="d" 
