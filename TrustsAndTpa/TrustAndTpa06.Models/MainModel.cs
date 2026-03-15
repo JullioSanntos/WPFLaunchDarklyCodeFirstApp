@@ -26,7 +26,7 @@ public class MainModel : SetPropertyBase {
     public async Task<string?> GetAccountAsync(string accountNumber) { await Task.Delay(0); return null; }
     public async Task<bool> AddAccount(string accountNumber) { await Task.Delay(0); return false; }
     public async Task<bool> RemoveAccount(string accountNumber) { await Task.Delay(0); return false; }
-    public async Task<bool> ValidateAccountAsync(string accountNumber) { await Task.Delay(0); return false; }
+    //public async Task<bool> ValidateAccountAsync(string accountNumber) { await Task.Delay(0); return false; }
     public async Task<bool> UpdateAccounTask(string accountNumber) { await Task.Delay(0); return false; }
     #endregion methods
 
