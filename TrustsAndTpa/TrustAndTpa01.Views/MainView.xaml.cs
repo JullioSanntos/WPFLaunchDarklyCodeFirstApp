@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace TrustsAndTpa.TrustsAndTpa01.Views
+namespace TrustsAndTpa.TrustAndTpa01.Views
 {
     /// <summary>
     /// Interaction logic for MainView.xaml

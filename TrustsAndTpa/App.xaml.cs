@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace TrustsAndTpa {
+namespace TrustAndTpa {
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>

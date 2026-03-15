@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
-using System.Text;
 
-namespace TrustsAndTpa.TrustsAndTpa12.Infrastructure {
+namespace TrustsAndTpa.TrustAndTpa12.Infrastructure {
     public abstract class SetPropertyBase : INotifyPropertyChanged {
         #region INotifyPropertyChanged
         public event PropertyChangedEventHandler? PropertyChanged;

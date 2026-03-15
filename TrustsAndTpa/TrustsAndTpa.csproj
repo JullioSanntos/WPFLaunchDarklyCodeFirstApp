@@ -10,12 +10,12 @@
 
   <ItemGroup>
     <Compile Remove="Converters\EnumMatchToVisibilityMultiConverter.cs" />
-    <Compile Remove="TrustsAndTpa03.ViewModels\PanelVisibilityState.cs" />
+    <Compile Remove="TrustAndTpa03.ViewModels\PanelVisibilityState.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="TrustsAndTpa09.Server\" />
-    <Folder Include="TrustsAndTpa06.Models\" />
+    <Folder Include="TrustAndTpa09.Server\" />
+    <Folder Include="TrustAndTpa06.Models\" />
   </ItemGroup>
 
   <ItemGroup>

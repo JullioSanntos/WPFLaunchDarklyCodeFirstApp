@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Text;
+﻿using System.Diagnostics;
 using System.Windows.Input;
 
-namespace TrustsAndTpa.TrustsAndTpa12.Infrastructure {
+namespace TrustsAndTpa.TrustAndTpa12.Infrastructure {
     public class RelayCommand : ICommand {
         #region Fields
 

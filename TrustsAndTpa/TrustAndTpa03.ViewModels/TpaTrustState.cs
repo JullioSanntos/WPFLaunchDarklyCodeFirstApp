@@ -1,4 +1,4 @@
-﻿namespace TrustsAndTpa.TrustsAndTpa03.ViewModels
+﻿namespace TrustsAndTpa.TrustAndTpa03.ViewModels
 {
     public enum TpaTrustState
     {

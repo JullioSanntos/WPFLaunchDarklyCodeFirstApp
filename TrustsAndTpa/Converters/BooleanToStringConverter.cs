@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Data;
 
-namespace TrustsAndTpa.Converters;
+namespace TrustAndTpa.Converters;
 
 [ValueConversion(typeof(bool), typeof(string))]
 public class BooleanToStringConverter : IValueConverter {
