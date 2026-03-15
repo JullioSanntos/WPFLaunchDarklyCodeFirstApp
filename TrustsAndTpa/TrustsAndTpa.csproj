@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <Folder Include="TrustAndTpa09.Server\" />
-    <Folder Include="TrustAndTpa06.Models\" />
   </ItemGroup>
 
   <ItemGroup>
