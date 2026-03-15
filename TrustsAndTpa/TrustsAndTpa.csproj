@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Converters\EnumMatchToVisibilityMultiConverter.cs" />
     <Compile Remove="TrustsAndTpa03.ViewModels\PanelVisibilityState.cs" />
   </ItemGroup>
 
