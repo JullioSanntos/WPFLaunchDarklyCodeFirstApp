@@ -3,6 +3,7 @@
 namespace TrustsAndTpa.TrustAndTpa03.ViewModels;
 
 public class MainViewModel : ViewModelBase {
+    #region properties
     #region CurrentTrustViewModel
     public TrustViewModel CurrentTrustViewModel {
         get {
@@ -23,7 +24,6 @@ public class MainViewModel : ViewModelBase {
     }
     #endregion CurrentTpaViewModel
 
-    #region properties
     public bool CancelButtonIsEnable { get; set => SetProperty(ref field, value); } = false;
     public bool SaveButtonIsEnable { get; set => SetProperty(ref field, value); } = false;
     #endregion properties
